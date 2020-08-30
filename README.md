@@ -44,8 +44,7 @@
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="Sajeeth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sajjushaik&show_icons=true&theme=radical" />
 
-<br />
-<br />
+
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjushaik&layout=compact&theme=radical" />
 
